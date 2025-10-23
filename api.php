@@ -1,5 +1,5 @@
 <?php
-// api/pacientes.php
+// api.php
 // API simples para listar e cadastrar pacientes em formato JSON
 
 header('Content-Type: application/json; charset=utf-8');
