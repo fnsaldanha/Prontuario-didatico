@@ -1,4 +1,4 @@
- 🏥 Prontuário Didático
+# Prontuário Didático 🏥 
 
 Este projeto é um **prontuário médico simples**, desenvolvido com **PHP**, **MySQL** e **HTML/CSS**, com o objetivo de **demonstrar os elementos básicos da programação web** para estudantes da área da saúde.
 
