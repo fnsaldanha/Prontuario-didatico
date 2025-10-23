@@ -3,7 +3,8 @@ session_start();
 
 // Usuário e senha fixos
 $USER = 'admin';
-	$PASS = 'admin';
+$PASS = 'admin';
+
 $msg = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
