@@ -55,9 +55,6 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
     <hr style="border-color:white;">
     <a href="index.php" target="_self">Tela Inicial</a>
     <a href="logout.php" target="painel">Sair</a>
-<form action="logout.php" method="post">
-        <button type="submit">Sair</button>
-    </form>
   </div>
 
   <iframe id="conteudo" name="painel" src="paciente_cadastro.php"></iframe>
