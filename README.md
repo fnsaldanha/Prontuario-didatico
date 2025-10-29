@@ -51,7 +51,7 @@ O **Prontuário Didático** foi criado como material de apoio para disciplinas d
 
 2. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/prontuario-didatico.git
+   git clone https://github.com/fnsaldanha/prontuario-didatico.git
    ```
 
 3. **Copie os arquivos para o servidor web:**
