@@ -25,7 +25,8 @@ O **Prontuário Didático** foi criado como material de apoio para disciplinas d
 ├── cadastro_paciente.php    # Cadastro e listagem de pacientes
 ├── cadastro_prontuario.php  # Cadastro e listagem de prontuários
 ├── conexao.php              # Conexão com o banco de dados MySQL
-├── api.php                  # demonstração de API
+├── api.php                  # Demonstração de API
+├── Listar_pacientes.php     # Consome a api.php e gera uma lista
 └── README.md                # Este arquivo
 ```
 
